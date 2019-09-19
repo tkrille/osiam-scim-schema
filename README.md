@@ -11,5 +11,3 @@ It is also used by the [OSIAM connector4java](https://github.com/osiam/connector
 
 For more information and documentation visit the [repo's Wiki](https://github.com/osiam/scim-schema/wiki).
 
-For additional information about OSIAM please visit the homepage at [www.osiam.org](https://www.osiam.org).
-
